@@ -1,0 +1,6 @@
+{
+  "name": "Bloxfun - Roblox Token Creation Server",
+  "description": "Official portal for Bloxfun, the Roblox server where players can create, play, and launch their own in-game tokens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
