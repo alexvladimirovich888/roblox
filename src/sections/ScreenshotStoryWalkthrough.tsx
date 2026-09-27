@@ -30,7 +30,7 @@ export const ScreenshotStoryWalkthrough: React.FC<{ onHowToJoinClick: () => void
       subtitle: 'Spawn into the Central Roblox District',
       narrative:
         'A normal player joins the BLOXFUN multiplayer server. Standing in the dark futuristic spawn plaza, dark gray blocky architecture and glowing purple neon signs frame the bustling world. Overhead bridges and lighted walkways lead directly into the Token Launch Zone.',
-      imageSrc: '/src/assets/images/bloxfun_sc01_spawn_1790528062573.jpg',
+      imageSrc: '/images/bloxfun_sc01_spawn_1790528062573.jpg',
       alt: 'Roblox player spawning in BLOXFUN server central plaza',
       hudMetadata: {
         pov: 'Third-Person Gameplay',
@@ -46,7 +46,7 @@ export const ScreenshotStoryWalkthrough: React.FC<{ onHowToJoinClick: () => void
       subtitle: 'Locate the Dedicated In-Game Launch Station',
       narrative:
         'Players navigate through the cyber district toward the raised launch pavilion. Marked by illuminated purple signage reading BLOXFUN TERMINAL, a physical desktop computer desk with dual-monitors and glowing gaming peripherals awaits interactions.',
-      imageSrc: '/src/assets/images/bloxfun_sc02_approach_1790528076363.jpg',
+      imageSrc: '/images/bloxfun_sc02_approach_1790528076363.jpg',
       alt: 'Player avatar approaching the BLOXFUN computer terminal desk in Roblox',
       hudMetadata: {
         pov: 'Player Camera Tracking',
@@ -62,7 +62,7 @@ export const ScreenshotStoryWalkthrough: React.FC<{ onHowToJoinClick: () => void
       subtitle: 'Sit at the Gaming Desk & Engage Monitor',
       narrative:
         'When standing near the keyboard, the prompt "[E] Use Terminal" appears. The camera transitions over the shoulder of the avatar. The physical monitor powers up with the live BLOXFUN in-game interface, displaying token stats and launch fields.',
-      imageSrc: '/src/assets/images/bloxfun_sc03_computer_clean_1790528424805.jpg',
+      imageSrc: '/images/bloxfun_sc03_computer_clean_1790528424805.jpg',
       alt: 'Over-the-shoulder Roblox view of player sitting at desktop monitor',
       hudMetadata: {
         pov: 'Over-The-Shoulder Desk View',
@@ -78,7 +78,7 @@ export const ScreenshotStoryWalkthrough: React.FC<{ onHowToJoinClick: () => void
       subtitle: 'Type Parameters Directly on the Monitor',
       narrative:
         'Inside the in-game application on screen, players specify their token parameters: Token Name (e.g. BLOX DOG), Ticker ($BXDOG), description, and custom token icon. It is an authentic in-game UI rendered inside the Roblox 3D workspace connected to pump.fun protocol.',
-      imageSrc: '/src/assets/images/bloxfun_sc04_create_1790528090683.jpg',
+      imageSrc: '/images/bloxfun_sc04_create_1790528090683.jpg',
       alt: 'Close Roblox screenshot of monitor interface during token setup',
       hudMetadata: {
         pov: 'First-Person Monitor Focus',
@@ -94,7 +94,7 @@ export const ScreenshotStoryWalkthrough: React.FC<{ onHowToJoinClick: () => void
       subtitle: 'Instant Server-Wide Announcement & On-Chain Status',
       narrative:
         'Clicking Launch Token triggers the registration sound and celebratory particle effects. The monitor confirms "BLOXFUN TOKEN LAUNCHED" live on pump.fun, displaying the active ticker and contract data. The server-wide chat alerts all online players to the newly minted token.',
-      imageSrc: '/src/assets/images/bloxfun_sc05_success_1790528103886.jpg',
+      imageSrc: '/images/bloxfun_sc05_success_1790528103886.jpg',
       alt: 'Roblox gameplay screenshot showing token launch success confirmation on computer monitor',
       hudMetadata: {
         pov: 'Desk Close-Up Confirmation',
@@ -110,7 +110,7 @@ export const ScreenshotStoryWalkthrough: React.FC<{ onHowToJoinClick: () => void
       subtitle: 'Players Gather, Trade & Launch Daily',
       narrative:
         'BLOXFUN is an active multiplayer social hub. Groups of players hang out around the terminal pavilion, discuss upcoming community tokens in text chat, check the leaderboard list on the top right, and inspect newly deployed tokens in real-time.',
-      imageSrc: '/src/assets/images/bloxfun_sc06_multiplayer_1790528117704.jpg',
+      imageSrc: '/images/bloxfun_sc06_multiplayer_1790528117704.jpg',
       alt: 'Multiple Roblox players gathered around computer terminals in BLOXFUN launch lounge',
       hudMetadata: {
         pov: 'Wide Multiplayer Arena',
@@ -267,7 +267,7 @@ export const ScreenshotStoryWalkthrough: React.FC<{ onHowToJoinClick: () => void
           <div className="bg-[#0B0B14] border border-[#202030] rounded-md overflow-hidden text-left group">
             <div className="relative aspect-video overflow-hidden">
               <img
-                src="/src/assets/images/bloxfun_sc01_spawn_1790528062573.jpg"
+                src="/images/bloxfun_sc01_spawn_1790528062573.jpg"
                 alt="Roblox Spawn Plaza"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
               />
@@ -284,7 +284,7 @@ export const ScreenshotStoryWalkthrough: React.FC<{ onHowToJoinClick: () => void
           <div className="bg-[#0B0B14] border border-[#202030] rounded-md overflow-hidden text-left group">
             <div className="relative aspect-video overflow-hidden">
               <img
-                src="/src/assets/images/bloxfun_sc03_computer_clean_1790528424805.jpg"
+                src="/images/bloxfun_sc03_computer_clean_1790528424805.jpg"
                 alt="Interact with Computer Desk"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
               />
@@ -301,7 +301,7 @@ export const ScreenshotStoryWalkthrough: React.FC<{ onHowToJoinClick: () => void
           <div className="bg-[#0B0B14] border border-[#202030] rounded-md overflow-hidden text-left group">
             <div className="relative aspect-video overflow-hidden">
               <img
-                src="/src/assets/images/bloxfun_sc05_success_1790528103886.jpg"
+                src="/images/bloxfun_sc05_success_1790528103886.jpg"
                 alt="Token Launched Confirmation"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
               />

@@ -69,7 +69,7 @@ export const CommunityDiscord: React.FC = () => {
                 {/* Genuine Roblox Multiplayer Screenshot banner */}
                 <div className="relative rounded overflow-hidden border border-[#2A2A3E]">
                   <img
-                    src="/src/assets/images/bloxfun_sc06_multiplayer_1790528117704.jpg"
+                    src="/images/bloxfun_sc06_multiplayer_1790528117704.jpg"
                     alt="Authentic Roblox multiplayer gameplay in BLOXFUN launch hub"
                     className="w-full h-auto aspect-video object-cover"
                   />

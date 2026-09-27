@@ -29,7 +29,7 @@ export const WorldShowcase: React.FC = () => {
         {/* Big Cinematic Showcase Viewport */}
         <div className="relative rounded-md overflow-hidden border-2 border-[#242436] bg-[#0E0E18] shadow-[0_12px_48px_rgba(0,0,0,0.85)] mb-10 group">
           <img
-            src="/src/assets/images/bloxfun_massive_city_map_1790529484480.jpg"
+            src="/images/bloxfun_massive_city_map_1790529484480.jpg"
             alt="Authentic extreme high-altitude Roblox gameplay screenshot of a massive futuristic metropolis with skyscrapers, bridges, and purple rings indicating launch stations"
             className="w-full h-auto object-cover max-h-[560px] aspect-video group-hover:scale-102 transition-transform duration-700"
             referrerPolicy="no-referrer"

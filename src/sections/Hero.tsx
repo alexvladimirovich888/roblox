@@ -102,7 +102,7 @@ export const Hero: React.FC<HeroProps> = ({ onPlayClick, onHowToJoinClick }) => 
               {/* Main Visual Display Frame */}
               <div className="relative rounded-md overflow-hidden border-2 border-[#2C2C42] bg-[#0E0E18] shadow-[0_12px_40px_rgba(0,0,0,0.85)] group">
                 <img
-                  src="/src/assets/images/bloxfun_sc01_spawn_1790528062573.jpg"
+                  src="/images/bloxfun_sc01_spawn_1790528062573.jpg"
                   alt="Authentic Roblox gameplay screenshot: player avatar standing in BLOXFUN spawn plaza"
                   className="w-full h-auto object-cover aspect-video sm:aspect-[4/3] group-hover:scale-105 transition-transform duration-500"
                   referrerPolicy="no-referrer"
@@ -115,7 +115,7 @@ export const Hero: React.FC<HeroProps> = ({ onPlayClick, onHowToJoinClick }) => 
                 <div className="absolute bottom-3 left-3 right-3 sm:bottom-4 sm:left-4 sm:right-4 p-3 bg-[#0D0D15]/90 backdrop-blur-md border border-[#27273C] rounded-sm flex items-center justify-between">
                   <div className="flex items-center gap-3">
                     <img
-                      src="/src/assets/images/bloxfun_avatar_builder_1790526123773.jpg"
+                      src="/images/bloxfun_avatar_builder_1790526123773.jpg"
                       alt="Bloxfun Player Avatar"
                       className="w-9 h-9 sm:w-10 sm:h-10 rounded-sm border border-[#8B5CF6] object-cover shrink-0"
                       referrerPolicy="no-referrer"

@@ -44,7 +44,7 @@ export const TokenCreationMechanic: React.FC<TokenCreationMechanicProps> = ({ on
           <div className="lg:col-span-6 relative">
             <div className="relative rounded-md overflow-hidden border-2 border-[#2C2C42] bg-[#0E0E18] shadow-[0_12px_40px_rgba(139,92,246,0.25)] group">
               <img
-                src="/src/assets/images/bloxfun_sc03_computer_clean_1790528424805.jpg"
+                src="/images/bloxfun_sc03_computer_clean_1790528424805.jpg"
                 alt="Bloxfun in-game computer desk workstation showing the token creation terminal on monitor"
                 className="w-full h-auto object-cover aspect-[4/3] group-hover:scale-105 transition-transform duration-500"
                 referrerPolicy="no-referrer"
